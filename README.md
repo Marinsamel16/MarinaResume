@@ -6,9 +6,11 @@ This website was created using GitHub pages. If you want to learn more about Git
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+### Education
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+East Brunswick Highschool - Class of 2021
+
+**Course Highlights:** AP Biology, AP Computer Science Principles, AP Spanish, Pre-Calc Honors, English Honors, History Honors, Intro to Computer Science
 
 ```markdown
 Syntax highlighted code block
