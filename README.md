@@ -6,6 +6,8 @@ This website was created using GitHub pages. If you want to learn more about Git
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
+![Image of PC](https://github.com/Marinsamel16/images/blob/master/computer.png)
+
 ### Education
 
 East Brunswick Highschool - Class of 2021
