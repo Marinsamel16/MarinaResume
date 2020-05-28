@@ -1,6 +1,8 @@
 ## Welcome to Marina's Virtual Resume!
 
-You can use the [editor on GitHub](https://github.com/Marinsamel16/MarinaResume/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+This is a virtual resume I created for my AP Comupter Science Priciples. 
+
+This website was created using GitHub pages. If you want to learn more about GitHub pages, follow documentation found [here](https://pages.github.com/).
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
