@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to Marina's Virtual Resume!
 
 You can use the [editor on GitHub](https://github.com/Marinsamel16/MarinaResume/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
