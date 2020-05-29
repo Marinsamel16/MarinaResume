@@ -12,7 +12,9 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 East Brunswick Highschool - Class of 2021
 
 **Course Highlights:** AP Biology, AP Computer Science Principles, AP Spanish, Pre-Calc Honors, English Honors, History Honors, Intro to Computer Science
-**GPA:** 4.1 and climbinggggg
+
+**GPA:** 4.1 
+
 **Clubs:** 
 - Coptic club
 - Sources of Strength 
