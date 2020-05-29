@@ -12,16 +12,25 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 East Brunswick Highschool - Class of 2021
 
 **Course Highlights:** AP Biology, AP Computer Science Principles, AP Spanish, Pre-Calc Honors, English Honors, History Honors, Intro to Computer Science
+**GPA:** 4.1 and climbinggggg
+**Clubs:** 
+- Coptic club
+- Sources of Strength 
+- National Honor Society 
+
+
 
 ### Volunteer Work 
 
-Egyptian Festival - 90 hours 
-Gift Wrapping - 10 hours 
-Youth group services - 50 hours 
-Tutoring - 1 hour 
+- Egyptian Festival - 90 hours 
+- Gift Wrapping - 10 hours 
+- Youth group services - 50 hours 
+- Tutoring - 1 hour 
+- Grow a Row - 3 hours 
 
-### image
-![pracice image](https://www.google.com/url?sa=i&url=https%3A%2F%2Fthenounproject.com%2Fterm%2Fcomputer%2F28191%2F&psig=AOvVaw224tLlUiiCzybB2PRhNOMR&ust=1590800111389000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCMi4prHu1-kCFQAAAAAdAAAAABAI).
+### Honors and Awards
+
+
 Syntax highlighted code block
 
 # Header 1
