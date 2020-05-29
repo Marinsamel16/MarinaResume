@@ -14,7 +14,13 @@ East Brunswick Highschool - Class of 2021
 
 **Course Highlights:** AP Biology, AP Computer Science Principles, AP Spanish, Pre-Calc Honors, English Honors, History Honors, Intro to Computer Science
 
-```markdown
+### Volunteer Work 
+
+Egyptian Festival - 90 hours 
+Gift Wrapping - 10 hours 
+Youth group services - 50 hours 
+Tutoring - 1 hour 
+
 Syntax highlighted code block
 
 # Header 1
