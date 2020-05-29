@@ -29,11 +29,16 @@ East Brunswick Highschool - Class of 2021
 - Youth group services - 50 hours 
 - Tutoring - 1 hour 
 - Grow a Row - 3 hours 
+- Saint Mary Summer Camp - 130 hours
 
 ### Honors and Awards
+- Inducted into National Honor Society 
+- Recieved Silver Honor Roll as well as Gold Honor Roll 
+- First Place in Coybl tournament 
+- Second place JV Basketball Tournament
+- 2nd place JV Soccer Tournament
 
 
-Syntax highlighted code block
 
 # Header 1
 ## Header 2
