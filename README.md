@@ -6,7 +6,6 @@ This website was created using GitHub pages. If you want to learn more about Git
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-![Image of PC](https://github.com/Marinsamel16/images/blob/master/computer.png)
 
 ### Education
 
@@ -21,6 +20,8 @@ Gift Wrapping - 10 hours
 Youth group services - 50 hours 
 Tutoring - 1 hour 
 
+### image
+![pracice image](https://www.google.com/url?sa=i&url=https%3A%2F%2Fthenounproject.com%2Fterm%2Fcomputer%2F28191%2F&psig=AOvVaw224tLlUiiCzybB2PRhNOMR&ust=1590800111389000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCMi4prHu1-kCFQAAAAAdAAAAABAI).
 Syntax highlighted code block
 
 # Header 1
