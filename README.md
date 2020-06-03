@@ -6,7 +6,7 @@ This website was created using GitHub pages. If you want to learn more about Git
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### About Me ![my photo](https://raw.githubusercontent.com/Marinsamel16/images/master/myself.jpg | width = 10)
+### About Me ![my photo](https://raw.githubusercontent.com/Marinsamel16/images/master/myself.jpg =10x10)
 ---
 I am an outgoing student who consistently demonstrates a strong work ethic. I am seeking to apply my biological knowledge and my computer science skills in my future career. 
 
