@@ -7,10 +7,11 @@ This website was created using GitHub pages. If you want to learn more about Git
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### About Me
+---
 I am an outgoing student who consistently demonstrates a strong work ethic. I am seeking to apply my biological knowledge and my computer science skills in my future career. 
 
 ### Education
-
+---
 East Brunswick Highschool - Class of 2021
 
 **Course Highlights:** AP Biology, AP Computer Science Principles, AP Spanish, Pre-Calc Honors, Intro to Computer Science, Intro to Engineering, Mechanical Engineering, STEM
@@ -25,26 +26,29 @@ East Brunswick Highschool - Class of 2021
 
 
 ### Volunteer Work 
-
+---
 - Egyptian Festival - 90 hours 
 - Gift Wrapping - 10 hours 
 - Youth group services - 50 hours 
 - Tutoring - 1 hour 
 - Grow a Row - 3 hours 
 - Saint Mary Summer Camp - 130 hours
-
+---
 ### Honors and Awards
 - Inducted into National Honor Society 
-- Recieved Silver Honor Roll as well as Gold Honor Roll 
+- Received Gold Honor Roll/Silver Honor Roll
 - First Place in Coybl tournament 
 - Second place JV Basketball Tournament
 - 2nd place JV Soccer Tournament
 
-
-
+---
 ### Additonal Skills  
-- Basic knowledge of the JAVA Script programming language 
+- Basic knowledge of JAVA Script programming language 
 - Higher level knowledge in engineering
 - Basic skills in a biology lab 
+- Analytical 
+- Microsoft office/Google Suite 
+- Problem solving 
+- communication
 
 
