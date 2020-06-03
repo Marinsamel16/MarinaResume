@@ -33,8 +33,9 @@ East Brunswick Highschool - Class of 2021
 - Tutoring - 1 hour 
 - Grow a Row - 3 hours 
 - Saint Mary Summer Camp - 130 hours
----
+
 ### Honors and Awards
+---
 - Inducted into National Honor Society 
 - Received Gold Honor Roll/Silver Honor Roll
 - First Place in Coybl tournament 
