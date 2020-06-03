@@ -6,9 +6,14 @@ This website was created using GitHub pages. If you want to learn more about Git
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### About Me
+### About Me ![my photo](https://raw.githubusercontent.com/Marinsamel16/images/master/myself.jpg)
 ---
 I am an outgoing student who consistently demonstrates a strong work ethic. I am seeking to apply my biological knowledge and my computer science skills in my future career. 
+
+### Social media 
+---
+- Instagram: marina.samuel31
+I rarely use any other forms of social media. 
 
 ### Education
 ---
