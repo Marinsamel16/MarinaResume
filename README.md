@@ -23,16 +23,14 @@ East Brunswick Highschool - Class of 2021
 - Sources of Strength 
 - National Honor Society 
 
-
-
 ### Volunteer Work 
 ---
 - Egyptian Festival - 90 hours 
 - Gift Wrapping - 10 hours 
+- Saint Mary Summer Camp - 130 hours
 - Youth group services - 50 hours 
 - Tutoring - 1 hour 
 - Grow a Row - 3 hours 
-- Saint Mary Summer Camp - 130 hours
 
 ### Honors and Awards
 ---
@@ -42,14 +40,14 @@ East Brunswick Highschool - Class of 2021
 - Second place JV Basketball Tournament
 - 2nd place JV Soccer Tournament
 
----
 ### Additonal Skills  
+---
 - Basic knowledge of JAVA Script programming language 
 - Higher level knowledge in engineering
 - Basic skills in a biology lab 
 - Analytical 
 - Microsoft office/Google Suite 
 - Problem solving 
-- communication
+- Communication
 
 
