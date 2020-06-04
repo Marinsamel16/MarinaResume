@@ -1,4 +1,4 @@
-## Welcome to Marina's Virtual Resume!
+## Welcome to Marina Samuel's Virtual Resume!
 
 This is a virtual resume I created for my AP Comupter Science Priciples. 
 
